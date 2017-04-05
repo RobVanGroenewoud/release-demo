@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "release": "^1.1.7"
+    "git-release": "^0.6.0"
   }
 }
